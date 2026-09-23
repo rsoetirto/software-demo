@@ -1,5 +1,10 @@
 # Biodiversity Analysis Toolkit
 
+[![DOI](https://sandbox.zenodo.org/badge/1383779404.svg)](https://handle.test.datacite.org/10.5072/zenodo.608094)
+
+## License
+This project is licensed under the BSD 3-Clause License - see the (LICENSE) file for details
+
 Analysis tools for biodiversity research data.
 
 > **Note for learners:** this is the *starting state* for the
