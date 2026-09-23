@@ -7,6 +7,8 @@ This project is licensed under the BSD 3-Clause License - see the (LICENSE) file
 
 Analysis tools for biodiversity research data.
 
+> **Note**: This is a teaching/demo repository. The DOI above points to Zenodo Sandbox for demonstration purposes.
+
 > **Note for learners:** this is the *starting state* for the
 > "Sharing Research Software" lesson. It intentionally has no license,
 > citation file, release, or metadata. You'll add those over the course of
